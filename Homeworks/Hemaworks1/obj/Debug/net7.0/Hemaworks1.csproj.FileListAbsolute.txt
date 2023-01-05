@@ -1,0 +1,15 @@
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\bin\Debug\net7.0\Hemaworks1.exe
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\bin\Debug\net7.0\Hemaworks1.deps.json
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\bin\Debug\net7.0\Hemaworks1.runtimeconfig.json
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\bin\Debug\net7.0\Hemaworks1.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\bin\Debug\net7.0\Hemaworks1.pdb
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.csproj.AssemblyReference.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.AssemblyInfoInputs.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.AssemblyInfo.cs
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\refint\Hemaworks1.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.pdb
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\Hemaworks1.genruntimeconfig.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Hemaworks1\obj\Debug\net7.0\ref\Hemaworks1.dll
