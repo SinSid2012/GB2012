@@ -1,0 +1,15 @@
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\bin\Debug\net7.0\Homeworks2.exe
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\bin\Debug\net7.0\Homeworks2.deps.json
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\bin\Debug\net7.0\Homeworks2.runtimeconfig.json
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\bin\Debug\net7.0\Homeworks2.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\bin\Debug\net7.0\Homeworks2.pdb
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.csproj.AssemblyReference.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.AssemblyInfoInputs.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.AssemblyInfo.cs
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\refint\Homeworks2.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.pdb
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\Homeworks2.genruntimeconfig.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks2\obj\Debug\net7.0\ref\Homeworks2.dll
