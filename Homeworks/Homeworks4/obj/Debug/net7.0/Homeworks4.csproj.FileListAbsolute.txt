@@ -1,0 +1,15 @@
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\bin\Debug\net7.0\Homeworks4.exe
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\bin\Debug\net7.0\Homeworks4.deps.json
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\bin\Debug\net7.0\Homeworks4.runtimeconfig.json
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\bin\Debug\net7.0\Homeworks4.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\bin\Debug\net7.0\Homeworks4.pdb
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.csproj.AssemblyReference.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.AssemblyInfoInputs.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.AssemblyInfo.cs
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.csproj.CoreCompileInputs.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\refint\Homeworks4.dll
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.pdb
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\Homeworks4.genruntimeconfig.cache
+C:\Users\sinsi\OneDrive\Рабочий стол\GB\Homeworks\Homeworks4\obj\Debug\net7.0\ref\Homeworks4.dll
